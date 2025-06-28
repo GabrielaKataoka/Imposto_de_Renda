@@ -30,6 +30,7 @@ Usando os conhecimentos e as instruções apresentadas pelo professor Felipe Agu
   - Menu interativo para navegar entre as planilhas "Titular", "Informes" e "Notas" dentro do mesmo Excel
   - E-mail preenchido nos dados do titular para escrever àquela pessoa 
   - Ícone do LinkedIn para encaminhar à minha página
+- Alinhar objetos para padronizar suas posições nas planilhas. 
 
 
 
